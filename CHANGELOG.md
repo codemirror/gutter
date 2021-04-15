@@ -1,3 +1,9 @@
+## 0.18.1 (2021-04-15)
+
+### Bug fixes
+
+Make sure the gutter covers the cursor when it is behind it.
+
 ## 0.18.0 (2021-03-03)
 
 ### Breaking changes
