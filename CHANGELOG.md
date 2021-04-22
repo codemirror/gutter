@@ -1,3 +1,9 @@
+## 0.18.2 (2021-04-22)
+
+### Bug fixes
+
+Fix a bug where dynamically enabling a single gutter would not draw the gutter's content.
+
 ## 0.18.1 (2021-04-15)
 
 ### Bug fixes
