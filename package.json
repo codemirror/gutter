@@ -1,6 +1,6 @@
 {
   "name": "@codemirror/gutter",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "description": "Gutter and line number functionality for the CodeMirror code editor",
   "scripts": {
     "test": "cm-runtests",

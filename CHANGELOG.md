@@ -1,3 +1,15 @@
+## 0.18.3 (2021-05-15)
+
+### Breaking changes
+
+`GutterMarker.at` is now deprecated (use \`GutterMarker.range\`).
+
+### New features
+
+The new `gutterLineClass` facet can now be used to style all gutter elements for a given line.
+
+The package now exports a `highlightActiveLineGutter` extension that can be used to add a style to the gutter for the active line.
+
 ## 0.18.2 (2021-04-22)
 
 ### Bug fixes
