@@ -3,6 +3,8 @@ numbers or other purposes) on the side of the editor.
 
 @lineNumbers
 
+@highlightActiveLineGutter
+
 @gutter
 
 @gutters
