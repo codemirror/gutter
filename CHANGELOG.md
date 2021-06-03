@@ -1,3 +1,9 @@
+## 0.18.4 (2021-06-03)
+
+### Bug fixes
+
+Make sure gutters are updated when the `gutterLineClass` facet changes, to fix a bug where the active line gutter marking didn't update properly.
+
 ## 0.18.3 (2021-05-15)
 
 ### Breaking changes
