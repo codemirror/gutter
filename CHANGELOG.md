@@ -1,3 +1,9 @@
+## 0.19.1 (2021-08-16)
+
+### Bug fixes
+
+Fix a bug where range sets with gutter markers didn't map correctly in response to changes at the start of the gutter's line.
+
 ## 0.19.0 (2021-08-11)
 
 ### Breaking changes
