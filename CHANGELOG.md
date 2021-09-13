@@ -1,3 +1,9 @@
+## 0.19.2 (2021-09-13)
+
+### Bug fixes
+
+Fix the `domEventHandlers` option to `lineNumbers`, which was entirely ignored before.
+
 ## 0.19.1 (2021-08-16)
 
 ### Bug fixes
