@@ -1,3 +1,9 @@
+## 0.19.3 (2021-10-23)
+
+### Bug fixes
+
+Fix a CSS bug that caused gutters without an element on every line to not span the height of the editor (leading to issues with background color and pointer events).
+
 ## 0.19.2 (2021-09-13)
 
 ### Bug fixes
