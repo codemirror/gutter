@@ -1,3 +1,9 @@
+## 0.19.4 (2021-10-27)
+
+### Bug fixes
+
+Make sure the gutter resizes whenever the editor geometry changes.
+
 ## 0.19.3 (2021-10-23)
 
 ### Bug fixes
