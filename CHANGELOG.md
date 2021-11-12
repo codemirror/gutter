@@ -1,3 +1,13 @@
+## 0.19.5 (2021-11-12)
+
+### Bug fixes
+
+The line number gutter will now properly redraw when its configuration changes.
+
+### New features
+
+Gutters can now pass a `lineMarkerChange` predicate that checks when line markers should be redrawn.
+
 ## 0.19.4 (2021-10-27)
 
 ### Bug fixes
