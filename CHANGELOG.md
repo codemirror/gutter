@@ -1,3 +1,9 @@
+## 0.19.7 (2021-11-30)
+
+### Bug fixes
+
+Fix an issue where the gutter elements would be misaligned by the size of the top document padding.
+
 ## 0.19.6 (2021-11-30)
 
 ### Bug fixes
