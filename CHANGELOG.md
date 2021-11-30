@@ -1,3 +1,9 @@
+## 0.19.6 (2021-11-30)
+
+### Bug fixes
+
+Optimizes gutter updates during scrolling by temporarily removing the gutters from the DOM during the update.
+
 ## 0.19.5 (2021-11-12)
 
 ### Bug fixes
