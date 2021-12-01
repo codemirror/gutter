@@ -1,3 +1,9 @@
+## 0.19.8 (2021-12-01)
+
+### Bug fixes
+
+Fix a bug that causes gutters to disappear with some kinds of block widgets.
+
 ## 0.19.7 (2021-11-30)
 
 ### Bug fixes
