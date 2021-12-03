@@ -1,3 +1,9 @@
+## 0.19.9 (2021-12-03)
+
+### New features
+
+Gutter markers can now have a `destroy` method, which will be called when they are removed from the editor.
+
 ## 0.19.8 (2021-12-01)
 
 ### Bug fixes
